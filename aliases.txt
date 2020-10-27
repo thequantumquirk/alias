@@ -1,0 +1,40 @@
+// Used to edit brightness of your screen manually
+alias bn='nano /sys/class/backlight/amdgpu_bl0/brightness'
+
+alias update= 'sudo apt update'
+
+alias upgrade= 'sudo apt update && sudo apt full-upgrade'
+
+alias ll='ls -lh'
+
+alias la='ls -lha'
+
+alias l='ls -CF'
+
+alias em='emacs -nw'
+
+alias dd='dd status=progress'
+
+alias _='sudo'
+
+alias _i='sudo -i'
+
+alias please='sudo'
+
+alias fucking='sudo'
+
+alias ls='ls --color=auto'
+
+alias dir='dir --color=auto'
+
+alias vdir='vdir --color=auto'
+
+alias grep='grep --color=auto'
+
+alias fgrep='fgrep --color=auto'
+
+alias egrep='egrep --color=auto'
+
+alias instal='sudo apt install'
+
+alias mv='mv -i'
