@@ -38,3 +38,9 @@ alias egrep='egrep --color=auto'
 alias instal='sudo apt install'
 
 alias mv='mv -i'
+
+alias cd1='cd ..'
+
+alias cd2='cd ../../'
+
+alias cd3='cd ../../../'
