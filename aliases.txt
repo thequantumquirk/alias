@@ -44,3 +44,39 @@ alias cd1='cd ..'
 alias cd2='cd ../../'
 
 alias cd3='cd ../../../'
+
+alias gs='git status'
+
+alias gd='git diff'
+
+alias gc='git clone'
+
+alias gco='git checkout'
+
+alias gb='git branch'
+
+alias gp='git push'
+
+alias gca='git commit --amend'
+
+alias gl1='git log --oneline'
+
+alias gr='git remote -v'
+
+alias gra='git remote add'
+
+alias gf='git fetch'
+
+alias gcp='git cherry-pick'
+
+alias gcpc='git cherry-pick --continue'
+
+alias gcpa='git cherry-pick --abort'
+
+alias gmc='git merge --continue'
+
+alias gma='git merge --abort'
+
+alias grbi='git rebase -i'
+
+alias grbc='git rebase --continue'
